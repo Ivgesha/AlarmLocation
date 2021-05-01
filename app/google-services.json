@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1070725278990",
+    "project_id": "alarmlocation-b0dd0",
+    "storage_bucket": "alarmlocation-b0dd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070725278990:android:1f6c1e88de773dca753b5f",
+        "android_client_info": {
+          "package_name": "com.example.alarmlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070725278990-2u5bku3gkhfpnso99tbfatpvpdtgi1v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alarmlocation",
+            "certificate_hash": "a789e505c817a122ea906ea6eaa3d48b3a30ab18"
+          }
+        },
+        {
+          "client_id": "1070725278990-8o4v3vp98s0k72qmn772f38pu6j80rp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8yfWdRoHJFaBskL1VP9hh1CaKf5ie5Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070725278990-8o4v3vp98s0k72qmn772f38pu6j80rp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
